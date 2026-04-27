@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:7f1d1d,70:111827,100:dc2626&text=Md%20Sohanur%20Alam%20Siyam&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=⚔️%20Samurai%20Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source%20Learner%20⚔️&descSize=17&descAlignY=58&animation=twinkling" alt="Samurai Slashing Developer Banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=DC2626&center=true&vCenter=true&width=850&lines=⚔️+Slash+bugs.+Build+systems.+Master+AI.;Code+with+discipline+like+a+Samurai.;Learning+AI+Engineering+every+day." alt="Samurai typing animation" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=gradient&customColorList=12,20,14,24,30&text=Md%20Sohanur%20Alam%20Siyam&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=AI%20Engineering%20Learner%20%7C%20Backend%20Builder%20%7C%20Open%20Source%20Explorer&descSize=17&descAlignY=62&animation=fadeIn" alt="Md Sohanur Alam Siyam banner" />
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&center=true&vCenter=true&width=720&lines=Learning+AI+Engineering+and+Backend+Development;Building+clean+projects+with+practical+value;Improving+every+day+through+code+and+documentation" alt="Typing introduction" />
 </a>
