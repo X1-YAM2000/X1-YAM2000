@@ -180,13 +180,3 @@ The workflow file is included at `.github/workflows/snake.yml`. After it runs su
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,50:2563eb,100:0f172a" alt="Footer wave" />
 
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake.svg">
-</picture>
-<div align="center">
-<strong>Thanks for visiting my profile.</strong>
-
-<br /> <br /> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,50:2563eb,100:0f172a" alt="Footer wave" /> </div>
