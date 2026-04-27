@@ -121,6 +121,23 @@ I am a software and AI enthusiast building practical projects while improving my
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=X1-YAM2000&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
 </div>
+---
+
+## Animation Test
+
+---
+
+## Skill Icons
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,git,github,docker,linux&perline=10" alt="Skill icons" />
+
+</div>
+
+---
+
+
 
 ---
 
