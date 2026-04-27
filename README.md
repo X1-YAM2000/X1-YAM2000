@@ -131,12 +131,8 @@ mindset     learn -> build -> document -> improve
 `Learning in public. Building with purpose. Improving one commit at a time.`
 
 </div>
-
+<div align="center">
 <strong>Thanks for visiting my profile.</strong>
-
-<br />
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,50:2563eb,100:0f172a" alt="Footer wave" />
-
 </div>
+<br />
+
