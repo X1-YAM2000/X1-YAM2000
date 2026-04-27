@@ -1,136 +1,71 @@
-<div align="center"> 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:22c55e&text=Md%20Sohanur%20Alam%20Siyam&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source%20Learner&descAlignY=60&animation=fadeIn" alt="Md Sohanur Alam Siyam banner" />
+<div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&center=true&vCenter=true&width=720&lines=Learning+AI+Engineering+and+Backend+Development;Building+clean+projects+with+practical+value;Improving+every+day+through+code+and+documentation" alt="Typing introduction" />
-</a>
+# Md Sohanur Alam Siyam
 
-<br />
+### Developer · AI Explorer · Open Source Learner
 
 <a href="https://github.com/X1-YAM2000">
-  <img src="https://komarev.com/ghpvc/?username=X1-YAM2000&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=X1-YAM2000&style=flat-square&color=111827&label=views" alt="Profile views" />
 </a>
 <a href="https://github.com/X1-YAM2000?tab=followers">
-  <img src="https://img.shields.io/github/followers/X1-YAM2000?style=for-the-badge&logo=github&color=111827&labelColor=0f172a" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/X1-YAM2000?style=flat-square&logo=github&color=111827&label=followers" alt="GitHub followers" />
 </a>
 <a href="https://github.com/X1-YAM2000?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/repos-explore-111827?style=flat-square&logo=github" alt="Repositories" />
 </a>
 
 </div>
 
 ---
-## Profile
-<img align="right" width="230" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c2b-d5aa98382969.gif" alt="Coding animation" />
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+## About
 
-### Identity
+I am a software and AI enthusiast from Bangladesh, focused on learning deeply and building practical projects. I like clean systems, readable code, useful documentation, and tools that solve real problems.
 
-```yaml
-name: Md Sohanur Alam Siyam
-handle: X1-YAM2000
-location: Bangladesh
-mode: learn -> build -> document -> improve
+```txt
+focus       AI engineering, backend development, automation
+learning    Python, APIs, project architecture, open source
+building    portfolio projects, useful tools, clear documentation
+mindset     learn -> build -> document -> improve
 ```
 
-I am a software and AI enthusiast building practical projects while improving my engineering fundamentals. I care about readable code, useful documentation, and turning small ideas into working tools.
-
-### Status Board
-
-| Signal | Current |
-| --- | --- |
-| Main focus | AI Engineering |
-| Core language | Python |
-| Side stack | JavaScript / TypeScript |
-| Building | Portfolio projects |
-| Open to | Collaboration |
-
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-![AI Engineering](https://img.shields.io/badge/Focus-AI%20Engineering-2563eb?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-Python%20APIs-22c55e?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-Useful%20Tools-f59e0b?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Learning%20Publicly-111827?style=for-the-badge)
-
-</div>
-
-<details>
-<summary><strong>More About My Workflow</strong></summary>
-
-| Area | How I approach it |
-| --- | --- |
-| Learning | Break topics into small notes, examples, and practice projects. |
-| Building | Start simple, make it work, then improve structure and docs. |
-| Documentation | Write setup steps clearly so future users can run the project. |
-| Collaboration | Prefer readable code, clear issues, and practical improvements. |
-
-</details>
-
 ---
 
-## Connect
+## Work Style
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/md-sohanur-alam-siyam-0b1b95306">
-  <img src="https://img.shields.io/badge/LinkedIn-Md%20Sohanur%20Alam%20Siyam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/X1-YAM2000">
-  <img src="https://img.shields.io/badge/GitHub-X1--YAM2000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://wa.me/8801977848311">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B8801977848311-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-<a href="https://t.me/+8801977848311">
-  <img src="https://img.shields.io/badge/Telegram-%2B8801977848311-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-</div>
+| Principle | How I apply it |
+| --- | --- |
+| Clarity | I prefer simple structure and readable code. |
+| Consistency | I improve projects through steady iteration. |
+| Usefulness | I build tools and notes that can help real users. |
+| Documentation | I write setup steps so projects are easier to run. |
 
 ---
 
 ## Tech Stack
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,git,github,docker,linux,vscode&perline=11" alt="Skill icons" />
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=white)
 
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
 
-<br />
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599c?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks and Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### AI, Data, and Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=111111)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -138,95 +73,64 @@ I am a software and AI enthusiast building practical projects while improving my
 
 ## Featured Projects
 
-<!-- These are normal links, so they will not show broken external-card errors. Replace descriptions anytime. -->
-
-| Project | What it shows | Stack / Topic |
-| --- | --- | --- |
-| [buber-notes](https://github.com/X1-YAM2000/buber-notes) | Study notes and organized learning material. | Notes, documentation |
-| [doc-system-guide](https://github.com/X1-YAM2000/doc-system-guide) | Guide-style technical documentation. | Docs, systems |
-| [dotfiles](https://github.com/X1-YAM2000/dotfiles) | Personal environment and setup configuration. | Shell, tools |
-| [zopper](https://github.com/X1-YAM2000/zopper) | Application project work and experiments. | App development |
+| Project | Focus |
+| --- | --- |
+| [buber-notes](https://github.com/X1-YAM2000/buber-notes) | Organized learning notes and documentation. |
+| [doc-system-guide](https://github.com/X1-YAM2000/doc-system-guide) | Technical guide writing and system notes. |
+| [dotfiles](https://github.com/X1-YAM2000/dotfiles) | Personal setup and development environment. |
+| [zopper](https://github.com/X1-YAM2000/zopper) | Application experiments and project practice. |
 
 ---
 
-## GitHub Analytics
+## GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=X1-YAM2000&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X1-YAM2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<br />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=X1-YAM2000&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X1-YAM2000&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=X1-YAM2000&theme=graywhite&hide_border=true" alt="GitHub streak stats" />
 
 </div>
----
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 ---
 
 ## Current Focus
 
 ```txt
-Learning:
-  - AI engineering fundamentals
-  - Python backend development
-  - API design and project structure
-  - Git and GitHub workflows
-
-Building:
-  - Portfolio-ready public projects
-  - Automation tools for daily workflows
-  - Clear README files and setup guides
-
-Improving:
-  - Code readability
-  - Problem solving
-  - Documentation quality
-  - Consistent contribution habits
+1. Strengthen Python and backend fundamentals.
+2. Build portfolio-ready public projects.
+3. Improve README quality and project documentation.
+4. Learn AI engineering through practical experiments.
+5. Contribute small improvements to open-source projects.
 ```
 
 ---
 
-## Roadmap
+## Contact
 
-- Build 3 to 5 polished public projects with strong README files.
-- Add screenshots, setup instructions, and demo links to important repositories.
-- Contribute documentation improvements or small fixes to open source.
-- Keep a consistent contribution graph with meaningful commits.
-- Publish learning notes while building.
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/md-sohanur-alam-siyam-0b1b95306">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/X1-YAM2000">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://wa.me/8801977848311">
+  <img src="https://img.shields.io/badge/WhatsApp-111827?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://t.me/+8801977848311">
+  <img src="https://img.shields.io/badge/Telegram-111827?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
 
-## Optional Contribution Snake
-
-The workflow file is included at `.github/workflows/snake.yml`. After it runs successfully, add this block wherever you want the snake to appear:
-
-```md
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake.svg">
-</picture>
-```
+</div>
 
 ---
 
 <div align="center">
+
+`Learning in public. Building with purpose. Improving one commit at a time.`
+
+</div>
 
 <strong>Thanks for visiting my profile.</strong>
 
