@@ -89,7 +89,7 @@ project index
 ├─ development practice
 ├─ automation ideas
 └─ open-source exploration
-
+```
 ---
 
 ## GitHub
