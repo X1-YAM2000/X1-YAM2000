@@ -125,21 +125,10 @@ I am a software and AI enthusiast building practical projects while improving my
 
 ## Animation Test
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&center=true&vCenter=true&width=720&lines=AI+Engineering+Learner;Backend+Developer;Open+Source+Explorer;Building+Useful+Projects" alt="Typing SVG" />
+</a>
 
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 ---
 
