@@ -123,11 +123,18 @@ I am a software and AI enthusiast building practical projects while improving my
 </div>
 ---
 
-## Animation Test
+---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&center=true&vCenter=true&width=720&lines=AI+Engineering+Learner;Backend+Developer;Open+Source+Explorer;Building+Useful+Projects" alt="Typing SVG" />
-</a>
+## Daily Motivation
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+
+</div>
+
+---
+
 
 
 ---
