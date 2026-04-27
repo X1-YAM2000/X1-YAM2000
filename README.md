@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:22c55e&text=Md%20Sohanur%20Alam%20Siyam&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source%20Learner&descAlignY=60" alt="Md Sohanur Alam Siyam banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=gradient&customColorList=12,20,14,24,30&text=Md%20Sohanur%20Alam%20Siyam&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=AI%20Engineering%20Learner%20%7C%20Backend%20Builder%20%7C%20Open%20Source%20Explorer&descSize=17&descAlignY=62&animation=fadeIn" alt="Md Sohanur Alam Siyam banner" />
+
 
 
 <a href="https://git.io/typing-svg">
