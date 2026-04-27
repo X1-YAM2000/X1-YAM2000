@@ -20,23 +20,93 @@
 
 </div>
 
+
 ---
 
 ## Profile
 
-```ts
-const siyam = {
-  name: "Md Sohanur Alam Siyam",
-  handle: "X1-YAM2000",
-  location: "Bangladesh",
-  focus: ["AI engineering", "backend development", "automation"],
-  learning: ["Python", "APIs", "project architecture", "open source"],
-  values: ["clarity", "consistency", "useful software"],
-  currentMode: "learn -> build -> document -> improve"
-};
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+### Identity
+
+```yaml
+name: Md Sohanur Alam Siyam
+handle: X1-YAM2000
+location: Bangladesh
+mode: learn -> build -> document -> improve
 ```
 
 I am a software and AI enthusiast building practical projects while improving my engineering fundamentals. I care about readable code, useful documentation, and turning small ideas into working tools.
+
+    </td>
+    <td width="42%" valign="top">
+
+### Status Board
+
+| Signal | Current |
+| --- | --- |
+| Main focus | AI Engineering |
+| Core language | Python |
+| Side stack | JavaScript / TypeScript |
+| Building | Portfolio projects |
+| Open to | Collaboration |
+
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+![AI Engineering](https://img.shields.io/badge/Focus-AI%20Engineering-2563eb?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-Python%20APIs-22c55e?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Useful%20Tools-f59e0b?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Learning%20Publicly-111827?style=for-the-badge)
+
+</div>
+
+<details>
+<summary><strong>More About My Workflow</strong></summary>
+
+| Area | How I approach it |
+| --- | --- |
+| Learning | Break topics into small notes, examples, and practice projects. |
+| Building | Start simple, make it work, then improve structure and docs. |
+| Documentation | Write setup steps clearly so future users can run the project. |
+| Collaboration | Prefer readable code, clear issues, and practical improvements. |
+
+</details>
+
+<details>
+<summary><strong>Current Learning Map</strong></summary>
+
+```mermaid
+mindmap
+  root((Siyam))
+    AI Engineering
+      Prompting
+      APIs
+      Automation
+      Evaluation
+    Backend
+      Python
+      FastAPI
+      Databases
+      Authentication
+    Frontend
+      HTML
+      CSS
+      JavaScript
+      React
+    Open Source
+      Git
+      GitHub
+      Documentation
+      Issues
+```
+
+</details>
 
 ---
 
