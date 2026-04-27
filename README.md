@@ -38,9 +38,6 @@ mode: learn -> build -> document -> improve
 
 I am a software and AI enthusiast building practical projects while improving my engineering fundamentals. I care about readable code, useful documentation, and turning small ideas into working tools.
 
-    </td>
-    <td width="42%" valign="top">
-
 ### Status Board
 
 | Signal | Current |
@@ -73,36 +70,6 @@ I am a software and AI enthusiast building practical projects while improving my
 | Building | Start simple, make it work, then improve structure and docs. |
 | Documentation | Write setup steps clearly so future users can run the project. |
 | Collaboration | Prefer readable code, clear issues, and practical improvements. |
-
-</details>
-
-<details>
-<summary><strong>Current Learning Map</strong></summary>
-
-```mermaid
-mindmap
-  root((Siyam))
-    AI Engineering
-      Prompting
-      APIs
-      Automation
-      Evaluation
-    Backend
-      Python
-      FastAPI
-      Databases
-      Authentication
-    Frontend
-      HTML
-      CSS
-      JavaScript
-      React
-    Open Source
-      Git
-      GitHub
-      Documentation
-      Issues
-```
 
 </details>
 
