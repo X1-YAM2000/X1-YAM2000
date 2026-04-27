@@ -74,7 +74,7 @@ mindset     learn -> build -> document -> improve
 
 ## Projects
 
-I have keep all of my public projects, experiments, notes, and learning work on GitHub.
+I have kept all of my public projects, experiments, notes, and learning work on GitHub.
 
 <p align="center">
   <a href="https://github.com/X1-YAM2000?tab=repositories">
