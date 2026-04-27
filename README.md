@@ -1,12 +1,23 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=gradient&customColorList=12,20,14,24,30&text=Md%20Sohanur%20Alam%20Siyam&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=AI%20Engineering%20Learner%20%7C%20Backend%20Builder%20%7C%20Open%20Source%20Explorer&descSize=17&descAlignY=62&animation=fadeIn" alt="Md Sohanur Alam Siyam banner" />
+div align="center"> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=gradient&customColorList=12,20,14,24,30&text=Md%20Sohanur%20Alam%20Siyam&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=AI%20Engineering%20Learner%20%7C%20Backend%20Builder%20%7C%20Open%20Source%20Explorer&descSize=17&descAlignY=62&animation=fadeIn" alt="Md Sohanur Alam Siyam banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&center=true&vCenter=true&width=720&lines=Learning+AI+Engineering+and+Backend+Development;Building+clean+projects+with+practical+value;Improving+every+day+through+code+and+documentation" alt="Typing introduction" />
+</a>
+
+<br />
+
+<a href="https://github.com/X1-YAM2000">
+  <img src="https://komarev.com/ghpvc/?username=X1-YAM2000&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://github.com/X1-YAM2000?tab=followers">
+  <img src="https://img.shields.io/github/followers/X1-YAM2000?style=for-the-badge&logo=github&color=111827&labelColor=0f172a" alt="GitHub followers" />
+</a>
 <a href="https://github.com/X1-YAM2000?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
 
 </div>
-
-
 ---
 
 ## Profile
