@@ -72,14 +72,23 @@ mindset     learn -> build -> document -> improve
 
 ---
 
-## Featured Projects
+## Projects
 
-| Project | Focus |
-| --- | --- |
-| [buber-notes](https://github.com/X1-YAM2000/buber-notes) | Organized learning notes and documentation. |
-| [doc-system-guide](https://github.com/X1-YAM2000/doc-system-guide) | Technical guide writing and system notes. |
-| [dotfiles](https://github.com/X1-YAM2000/dotfiles) | Personal setup and development environment. |
-| [zopper](https://github.com/X1-YAM2000/zopper) | Application experiments and project practice. |
+I keep my public projects, experiments, notes, and learning work on GitHub.
+
+<p align="center">
+  <a href="https://github.com/X1-YAM2000?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" />
+  </a>
+</p>
+
+```txt
+project index
+├─ learning notes
+├─ documentation experiments
+├─ development practice
+├─ automation ideas
+└─ open-source exploration
 
 ---
 
