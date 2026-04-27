@@ -91,6 +91,19 @@ mindset     learn -> build -> document -> improve
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=X1-YAM2000&theme=graywhite&hide_border=true" alt="GitHub streak stats" />
 
 </div>
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
