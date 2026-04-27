@@ -2,6 +2,17 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:22c55e&text=Md%20Sohanur%20Alam%20Siyam&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source%20Learner&descAlignY=60" alt="Md Sohanur Alam Siyam banner" />
 
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=%3E+initializing+developer+profile...;%3E+loading+AI+engineering+path...;%3E+building+useful+software...;%3E+system+ready." alt="Terminal typing animation" />
+
+<br />
+
+<a href="https://git.io/typing-svg">
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=%3E+initializing+developer+profile...;%3E+loading+AI+engineering+path...;%3E+building+useful+software...;%3E+system+ready." alt="Terminal typing animation" />
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&center=true&vCenter=true&width=720&lines=Learning+AI+Engineering+and+Backend+Development;Building+clean+projects+with+practical+value;Improving+every+day+through+code+and+documentation" alt="Typing introduction" />
 </a>
@@ -24,6 +35,7 @@
 ---
 
 ## Profile
+<img align="right" width="230" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c2b-d5aa98382969.gif" alt="Coding animation" />
 
 <table>
   <tr>
@@ -132,8 +144,13 @@ mindmap
 ---
 
 ## Tech Stack
-
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,git,github,docker,linux,vscode&perline=11" alt="Skill icons" />
+
+</div>
+
+<br />
 
 ### Languages
 
