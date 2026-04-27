@@ -135,6 +135,17 @@ I am a software and AI enthusiast building practical projects while improving my
 
 ---
 
+---
+
+## Daily Motivation
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+
+</div>
+
+---
 
 
 ---
