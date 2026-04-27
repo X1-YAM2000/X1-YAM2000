@@ -163,7 +163,6 @@ The workflow file is included at `.github/workflows/snake.yml`. After it runs su
 
 ```md
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/X1-YAM2000/X1-YAM2000/output/github-contribution-grid-snake.svg">
 </picture>
